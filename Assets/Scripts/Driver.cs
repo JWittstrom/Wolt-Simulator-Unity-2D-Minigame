@@ -19,8 +19,8 @@ public class Driver : MonoBehaviour
 
     void CarControls()
     {
-        float turnAmount = Input.GetAxis("Horizontal") * _turnSpeed;
-        float moveAmount = Input.GetAxis("Vertical") * _moveSpeed;
+        float turnAmount = Input.GetAxis("Horizontal") * _turnSpeed * Time.deltaTime;
+        float moveAmount = Input.GetAxis("Vertical") * _moveSpeed * Time.deltaTime;
 
         transform.Rotate(0, 0, -turnAmount);
         transform.Translate(0, moveAmount, 0);
