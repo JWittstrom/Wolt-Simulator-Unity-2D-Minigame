@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Delivery : MonoBehaviour
 {
+    bool _hasPackage;
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         
@@ -14,10 +16,13 @@ public class Delivery : MonoBehaviour
         if (collision.tag == "Package")
         {
             Debug.Log("Package picked up!");
+            _hasPackage = true;
         }
-        else if (collision.tag == "Customer")
+
+        if (collision.tag == "Customer" && _hasPackage)
         {
             Debug.Log("Delivery completed!");
+            _hasPackage = false;
         }            
     }
 }
