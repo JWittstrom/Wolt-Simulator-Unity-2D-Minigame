@@ -1128,6 +1128,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &184897993
 BoxCollider2D:
@@ -4119,6 +4125,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &805954210
 BoxCollider2D:
@@ -5212,6 +5224,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &978366393
 BoxCollider2D:
@@ -5909,6 +5927,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &1132572441
 BoxCollider2D:
@@ -6539,6 +6563,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &1169342332
 BoxCollider2D:
@@ -7236,6 +7266,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &1289535293
 BoxCollider2D:
@@ -8386,6 +8422,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!1 &1664033589
 GameObject:
@@ -8948,6 +8990,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &1809160560
 BoxCollider2D:
@@ -9484,7 +9532,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyDelay: 1
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 4281324598
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  _destroyDelay: 0.5
 --- !u!1 &1938479880
 GameObject:
   m_ObjectHideFlags: 0
@@ -9531,6 +9585,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &1938479883
 BoxCollider2D:
@@ -9757,6 +9817,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b866210aac6572546a63513a7394bf89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _hasPackageColor:
+    serializedVersion: 2
+    rgba: 0
+  _noPackageColor:
+    serializedVersion: 2
+    rgba: 16843009
   _destroyDelay: 0.5
 --- !u!61 &1942918155
 BoxCollider2D:
